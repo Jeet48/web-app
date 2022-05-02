@@ -1,0 +1,8 @@
+.MuiDataGrid-root,
+.MuiTablePagination-root,
+.MuiDataGrid-checkboxInput {
+  color: whitesmoke !important;
+  font-size: 13px !important;
+}
+
+
